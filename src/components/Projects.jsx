@@ -42,6 +42,12 @@ const projects = [
         title: 'Image and Audio Processing Web App',
         tags: ['Flask', 'TailwindCSS'],
         projectLink: ''
+    },
+    {
+        imgSrc: '/projects/project-8.png',
+        title: 'Pokedex Web App',
+        tags: ['NextJS'],
+        projectLink: ''
     }
 ];
 

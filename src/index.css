@@ -10,7 +10,6 @@ body {
     @apply bg-zinc-900 text-zinc-50 font-poppins
 }
 
-
 .headline-1,
 .headline-2 {
     @apply max-w-max;
@@ -21,7 +20,7 @@ body {
 }
 
 .headline-1 {
-    @apply text-5xl font-semibold lg:text-[58px] lg:leading-[1.15]
+    @apply text-4xl font-semibold lg:text-[58px] lg:leading-[1.15]
 }
 
 .headline-2 {

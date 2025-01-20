@@ -2,11 +2,6 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
     {
-        imgSrc: '/logos/azure-original.svg',
-        label: 'Microsoft Azure',
-        desc: 'Cloud Plaform'
-    },
-    {
         imgSrc: '/logos/bootstrap-plain.svg',
         label: 'Bootstrap',
         desc: 'CSS Framework'
@@ -97,6 +92,11 @@ const skillItem = [
         desc: 'JavaScript Library'
     },
     {
+        imgSrc: '/logos/vuejs-original.svg',
+        label: 'VueJS',
+        desc: 'JavaScript Library'
+    },
+    {
         imgSrc: '/logos/tailwindcss-plain.svg',
         label: 'TailwindCSS',
         desc: 'CSS Framework'
@@ -110,6 +110,11 @@ const skillItem = [
         imgSrc: '/logos/typescript-original.svg',
         label: 'TypeScript',
         desc: 'Programming Language'
+    },
+    {
+        imgSrc: '/logos/redux-original.svg',
+        label: 'Redux',
+        desc: 'State Management'
     },
     {
         imgSrc: '/logos/prisma.svg',

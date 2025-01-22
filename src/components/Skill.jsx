@@ -92,11 +92,6 @@ const skillItem = [
         desc: 'JavaScript Library'
     },
     {
-        imgSrc: '/logos/vuejs-original.svg',
-        label: 'VueJS',
-        desc: 'JavaScript Library'
-    },
-    {
         imgSrc: '/logos/tailwindcss-plain.svg',
         label: 'TailwindCSS',
         desc: 'CSS Framework'

@@ -48,6 +48,12 @@ const projects = [
         title: 'Pokedex Web App',
         tags: ['NextJS'],
         projectLink: 'https://github.com/habbazettt/pokedex-app'
+    },
+    {
+        imgSrc: '/projects/project-9.png',
+        title: '100+ CodeWars Solutions',
+        tags: ['JavaScript'],
+        projectLink: 'https://github.com/habbazettt/Code-Wars_Solutions'
     }
 ];
 

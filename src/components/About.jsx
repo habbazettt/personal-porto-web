@@ -22,7 +22,7 @@ const About = () => {
             <div className="container">
                 <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">
                     <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[70ch]">
-                        Hi, I&apos;m Hubbal, an Enthusiastic final year Computer Science student at UIN Sunan Gunung Djati Bandung with a passion for web development, Cloud Computing and UI/UX design. Experienced in developing applications using NodeJS ReactJS and i am proficient in programming languages such as JavaScript and TypeScript, alongside a solid understanding of UI/UX principles. I am committed to maintaining memorization of the Quran and am actively seeking opportunities to collaborate and contribute my skills to meaningful projects.
+                        I&apos;m Hubbal, an enthusiastic final-year Computer Science student at UIN Sunan Gunung Djati Bandung, passionate about web development, cloud computing, and UI/UX design. I have experience in developing applications using NodeJS and ReactJS, and am proficient in programming languages such as TypeScript and Golang. Committed to memorizing the Quran, i actively seek collaboration opportunities on meaningful projects that leverage his skills. Additionally, I have completed the Bangkit Academy 2024 Learning Path in Cloud Computing, further enhancing his expertise in this critical area of technology.
                     </p>
 
                     <div className="flex flex-wrap items-center gap-4 md:gap-7">

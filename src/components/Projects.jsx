@@ -2,6 +2,12 @@ import ProjectCard from "./ProjectCard";
 
 const projects = [
     {
+        imgSrc: '/projects/project-10.png',
+        title: 'VibeNest : Web-based Social Media App',
+        tags: ['NextJS', 'TypeScript', 'ShadcnUI', 'PostgreSQL'],
+        projectLink: 'https://vibenest-chi.vercel.app/notifications'
+    },
+    {
         imgSrc: '/projects/project-1.png',
         title: 'Sampahin : Waste Classification Web App',
         tags: ['TensorFlowJS', 'ExpressJS', 'ReactJS', 'PostgreSQL', 'Google Cloud Platform'],
@@ -55,12 +61,6 @@ const projects = [
         tags: ['JavaScript'],
         projectLink: 'https://github.com/habbazettt/Code-Wars_Solutions'
     },
-    {
-        imgSrc: '/projects/project-10.png',
-        title: 'VibeNest : Web-based Social Media App',
-        tags: ['NextJS', 'TypeScript', 'ShadcnUI', 'PostgreSQL'],
-        projectLink: 'https://vibenest-chi.vercel.app/notifications'
-    }
 ];
 
 const Projects = () => {

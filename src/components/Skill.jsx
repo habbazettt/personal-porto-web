@@ -22,6 +22,11 @@ const skillItem = [
         desc: 'UI Design Tool'
     },
     {
+        imgSrc: '/logos/firebase-plain.svg',
+        label: 'Firebase',
+        desc: 'Cloud Platform'
+    },
+    {
         imgSrc: '/logos/git-original-wordmark.svg',
         label: 'Git',
         desc: 'Version Control'

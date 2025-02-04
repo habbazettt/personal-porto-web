@@ -54,6 +54,12 @@ const projects = [
         title: '100+ CodeWars Solutions',
         tags: ['JavaScript'],
         projectLink: 'https://github.com/habbazettt/Code-Wars_Solutions'
+    },
+    {
+        imgSrc: '/projects/project-10.png',
+        title: 'VibeNest : Web-based Social Media App',
+        tags: ['NextJS', 'TypeScript', 'ShadcnUI', 'PostgreSQL'],
+        projectLink: 'https://vibenest-chi.vercel.app/notifications'
     }
 ];
 

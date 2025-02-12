@@ -6,6 +6,14 @@ import { VerticalTimeline, VerticalTimelineElement } from "react-vertical-timeli
 
 const experiences = [
     {
+        title: "Project-Based Virtual Intern: Backend Developer - Evermos x Rakamin Academy",
+        location: "Remote",
+        description:
+            "Developed REST API with Golang & MySQL using clean architecture. Build JWT authentication, account management, store, product, transaction, as well as pagination, filtering, file upload, and transaction logging features according to Postman Collection specifications.",
+        date: "Feb 2025 - Mar 2025",
+        icon: <FaCode />,
+    },
+    {
         title: "Cloud Computing Cohort at Bangkit Academy 2024 batch 2 led by Google, Tokopedia, Gojek & Traveloka",
         location: "Remote",
         description:

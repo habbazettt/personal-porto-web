@@ -52,7 +52,7 @@ const Experience = () => {
         background: '#27272A'
     }
     return (
-        <section className="section">
+        <section className="section" id="experiences">
             <div className="container">
                 <h2 className="headline-2 mb-8 reveal-up">
                     My Experiences
